@@ -4,6 +4,7 @@
 #include <algorithm>
 #include <QTextCodec>
 
+
 LyricWidget::LyricWidget(QWidget *parent) :
     QWidget(parent),
     ui(new Ui::LyricWidget)
